@@ -32,9 +32,9 @@ Older versions of Internet Explorer often need help to display your page the way
 
 ## CSS Frameworks
 
-A common theme among software developers, regardless of technology, is the idea that we don't want to do things that are repetitive or that reinvent the wheel. Or, said another way, we don't want to invent solutions to problems that have already been solved.
+A common theme among software developers, regardless of technology, is the idea that we don't want to do things that are repetitive or that reinvent the wheel. Or, said another way, we don't want to spend our time solving problems that have already been solved.
 
-It turns out that the problems of dealing with screen resolutions, platforms, accessibility, and idiocyncrasies among web browsers have indeed already been thought through by the many web developers that have come before you. And the solutions have been bundled in these things called ***CSS Frameworks***.
+It turns out that dealing with screen resolutions, platforms, accessibility, and idiocyncrasies among web browsers have indeed already been thought through by the legions of web developers that have come before you. And the solutions have been bundled in these things called ***CSS Frameworks***.
 
 CSS frameworks are reusuable bundles of code, patterns, and best practices that many professional web developers use to get work done faster.
 
